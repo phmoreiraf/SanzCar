@@ -1,0 +1,33 @@
+cff-version: 1.0.1
+message: Sistema de uma loja de carros.
+title: SanzCar
+authors:
+  - family-names: Pedro Henrique 
+    given-names: Moreira
+  - family-names: Ian
+    given-names: Nascimento Rocha
+  - family-names: Raul
+    given-names: Fernandes Goulart
+  - family-names: Pedro Afonso
+    given-names: De Campos Faria Maciel
+  - family-names: Lucca
+    given-names: Oliveira Vasconcelos de Faria
+  - family-names: Lucas
+    given-names: Hemetrio Teixeira
+  - family-names: Vitor Pereira
+    given-names: Leite de Melo
+  - name-suffix: Professora
+    affiliation: PUC Minas
+    family-names: Alonso Veloso
+    given-names: Eveline
+  - name-suffix: Professora 
+    affiliation: PUC Minas
+    family-names: Amaral Baroni de Carvalho
+    given-names: Juliana
+keywords:
+  - 
+  - 
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
